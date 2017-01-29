@@ -1,3 +1,2 @@
 # anj-tests
-Testing GitHub integration.
-Test
+Testing Symphony's GitHub integration.
