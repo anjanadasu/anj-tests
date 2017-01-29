@@ -1,2 +1,2 @@
 # anj-tests
-My tests
+Testing GitHub integration.
