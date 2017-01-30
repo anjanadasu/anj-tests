@@ -1,2 +1,2 @@
 # anj-tests
-Testing Symphony's GitHub integration.
+Testing Symphony's GitHub integration for the Sales team.
